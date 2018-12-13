@@ -1,4 +1,4 @@
-git init
+git initttt
 git status
 git commit -m
 git log
@@ -6,3 +6,4 @@ git checkout
 git checkout master takes you home
 git branch = tells you what branch you're in
 git branch branch3 = create branch3
+blah
