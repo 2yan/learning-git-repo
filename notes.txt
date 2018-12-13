@@ -1,4 +1,4 @@
-git initttt
+git idir
 git status
 git commit -m
 git loggggggg
