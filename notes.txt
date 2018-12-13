@@ -1,7 +1,7 @@
-git initttt
+git imip
 git status
 git commit -m
-git log
+git loggggggg
 git checkout
 git checkout master takes you home
 git branch = tells you what branch you're in
