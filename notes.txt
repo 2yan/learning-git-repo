@@ -1,3 +1,6 @@
 git init
 git status
 git commit -m
+git log
+git checkout
+git checkout master takes you home
